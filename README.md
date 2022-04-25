@@ -1,6 +1,8 @@
 # Words generator
 
-## Generator a valid word list from a series of letter
+## Generate a valid word list from a series of letter
+
+Usefull for word games like scrabble, wordox,...
 
 ### How to
 
